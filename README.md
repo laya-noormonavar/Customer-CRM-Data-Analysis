@@ -1,6 +1,8 @@
 # Customer CRM Data Analysis
 <img width="1454" height="805" alt="image" src="https://github.com/user-attachments/assets/85df8db5-fa20-427d-b9c0-44bc4e900b50" />
+
 > Don't forget to leave a star ⭐️ if you liked this project!
+
 ## 📘 Overview
 This project analyzes CRM data to understand customer behavior and satisfaction.  
 The goal was to extract actionable insights and visualize them through an interactive Power BI dashboard.
