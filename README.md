@@ -3,8 +3,9 @@
 
 ---
 
-### ⭐️ Don't forget to leave a star if you liked this project!
+###             ⭐️ Don't forget to leave a star if you liked this project!
 
+---
 
 ## 📘 Overview
 This project analyzes CRM data to understand customer behavior and satisfaction.  
