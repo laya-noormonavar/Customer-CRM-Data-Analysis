@@ -3,7 +3,7 @@
 
 ---
 
-###             ⭐️ Don't forget to leave a star if you liked this project!
+<h2 align="center">⭐️ Don't forget to leave a star if you liked this project! ⭐️</h2>
 
 ---
 
